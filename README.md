@@ -1,4 +1,4 @@
-# DrLee GPT - Small Language Model (Web Edition)
+# NityaGPT
 
 <div align="center">
   <img src="./public/drlee-ai-logo.png" alt="DrLee AI Logo" width="200">

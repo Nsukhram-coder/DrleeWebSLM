@@ -1,6 +1,6 @@
 {
-  "name": "WebGPU LLM (WebLLM + WASM)",
-  "short_name": "Web LLM",
+  "name": "DrLeeGPT- Kinda Small SLM",
+  "short_name": "DrLeeGPT",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0b1220",
